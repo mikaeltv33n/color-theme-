@@ -1,0 +1,21 @@
+<style>
+:root {
+--brand-color: #84CC16;
+--dark-color: #27272A;
+--mid-color: #52525B;
+--light-color: #F5F5F5;
+  }
+</style>
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+body{
+background-color: var(--light-color);
+color: var(--dark-color);
+--h2-color: var(--brand-color);   
+  
+}
+
